@@ -25,7 +25,7 @@ and packages. To run the newly compiled program from anywhere by setting the
 class path:
 
 ```bash
-java -classpath /some/path/src/main/java ArgsPrinterApplication
+java -classpath src/main/java ArgsPrinterApplication
 ```
 
 The third way to specifiy the classpath is through an environment variable

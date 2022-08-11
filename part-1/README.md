@@ -21,8 +21,8 @@ java ArgsPrinterApplication
 
 Another way is to pass the `classpath` argument to the `java` program. The
 class path is a collection of paths and `.jar` files that contain `.class` files
-and packages. To run the newly compiled program from anywhere by setting the
-class path:
+and packages of the main application as well as those of the dependencies. To
+run the newly compiled program from anywhere by setting the class path:
 
 ```bash
 java -classpath src/main/java ArgsPrinterApplication

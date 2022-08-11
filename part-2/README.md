@@ -1,6 +1,6 @@
 # Part-2: Compile and run a program containing multiple packages
 
-Compiling a program containing multiple packages is trivialy simpel: Just as in
+Compiling a program containing multiple packages is trivialy simple: Just as in
 part one the `javac` program is used in exactly the same manner to compile the
 source files:
 
